@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
-public class Triangle extends Figure {
+public class Triangle extends AbstractFigure {
     private static final int TRIANGLE_SIZE = 3;
     private static final int START = 0;
     private static final int NEXT = 1;
